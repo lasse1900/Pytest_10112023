@@ -5,7 +5,7 @@ def test_a1():
 
 # This is a failing test
 def test_a2():
-    assert 10 - 9 == 2, "failing test" 
+    assert 10 - 9 == 1, "NOT failing test" 
 
 def test_a3():
     assert 9//5 == 1 # integer truncation
