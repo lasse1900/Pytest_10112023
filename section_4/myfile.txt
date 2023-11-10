@@ -1,0 +1,6 @@
+user    city        email
+Jake    Barcelona   jake@gmail.com
+Lucas   Doha        lucas@hotmail.com
+Arman   London      arman@gmail.com
+Pat     Rome        pat@gmail.com
+
